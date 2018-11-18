@@ -1,0 +1,21 @@
+body {
+  color: #000;
+}
+
+.locations-list {
+  font-size: 20px;
+}
+
+#map {
+  height: 100vh;
+}
+
+li {
+  cursor: pointer;
+  color: #000;
+  margin: 0.5em;
+}
+
+li:hover {
+  color: blue;
+}

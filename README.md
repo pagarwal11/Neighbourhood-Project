@@ -1,4 +1,5 @@
 Introduction:
+
 The project contains a single page application featuring map of Delhi having markers for few famous tourist places. This app is built as part of Udacity Full Stack Nanodegree course.
 
 Usage Instructions:
